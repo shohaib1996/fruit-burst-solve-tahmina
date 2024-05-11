@@ -1,0 +1,20 @@
+.banner-opacity {
+    top: 0;
+    width: 98%;
+}
+
+.banner-title {
+    top: 35%;
+    left: 35%
+}
+
+@media (min-width: 320px) and (max-width: 576px){
+    .banner-opacity{
+      top: 0;
+      width: 94%;
+    }
+    .banner-title{
+        top: 43%;
+        left: 15%
+    }
+}
